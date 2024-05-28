@@ -1,0 +1,17 @@
+.menu{
+    z-index: 900;
+    position: absolute;
+    margin-left: 1300px;
+    font-size: 20px;
+    font-weight: 500;
+    border: 2px solid;
+    padding: 15px;
+    padding-right: 21px;
+    line-height: 50px;
+    background-color: rgb(79, 114, 101);
+    transition: max-height 0.5s ease-out;
+}
+
+hr{
+    width: 180px;
+}

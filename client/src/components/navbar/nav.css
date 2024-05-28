@@ -1,0 +1,31 @@
+
+.nav{
+    background-color: rgb(79, 114, 101);
+}
+
+.nav ul{
+    list-style: none;
+    display:flex;
+    justify-content: right;
+}
+.nav li{
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 55px;
+    align-content: center;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.nav .logo{
+    font-size: 25px;
+    font-weight: 800;
+    margin-right: 820px;
+}
+
+.nav .navopt:hover{
+    border-bottom: 2px solid;
+}

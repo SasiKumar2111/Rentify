@@ -1,0 +1,56 @@
+.search-main-border{
+margin-left: 16%;
+margin-right: 16%;
+margin-top: 40px;
+margin-bottom: 40px;
+padding-top: 50px;
+padding-bottom: 150px;
+padding-left: 250px;
+border: thin;
+border-color: rgb(255, 255, 255);
+box-shadow: 0 4px 8px 0 rgb(0, 0, 0,0.466), 0 6px 20px 0 rgba(0, 0, 0, 0.466); 
+background-image: url(https://images.livspace-cdn.com/w:1920/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/foyer-d-1662025135-fZrEc.png);
+background-position: center;
+background-size: cover;
+}
+
+.dropdown {
+    height: 30px;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 0 15px;
+    border:1px solid;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+.dropdown option {
+    height: 30px;
+    line-height: 30px;
+}
+input{
+    height: 26px;
+    width: 270px;
+    padding-left: 10px;
+    background-color: blanchedalmond;
+}
+form button{
+    height: 30px;
+    width: 125px;
+    border:1px solid;
+    padding-right: 30px;
+    background-color: blanchedalmond;
+}
+
+.heading h2{
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 170px;
+    line-height: 50px;
+}
+.heading h4{
+    font-size: 22px;
+    font-weight: 500;
+    padding-bottom: 70px;
+    padding-left: 95px
+
+}
